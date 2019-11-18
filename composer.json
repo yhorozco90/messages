@@ -5,8 +5,7 @@
     "keywords": ["laravel-admin", "messages"],
     "homepage": "https://github.com/laravel-admin-extensions/messages",
     "license": "MIT",
-    "minimum-stability": "dev",
-    "authors": [
+        "authors": [
         {
             "name": "z-song",
             "email": "zosong@126.com"
